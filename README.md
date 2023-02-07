@@ -1,5 +1,12 @@
 # Brute-force-gmail
-Brute force gmail hack
+Brute force gmail hack 2022 ----> Won't work (obsolete)
+
+
+### Access to apps has been disabled less secure than Google, which means the script will not run again
+
+### https://support.google.com/accounts/answer/6010255?hl=en
+
+
 
 ## Author: https://www.snapchat.com/add/flaah999
 
@@ -22,10 +29,9 @@ $ git clone https://github.com/0xfff0800/Brute-force-gmail.git
 ```
 # Command
 ```bash
-python3 gmail-3.py 
+python3 gmail-4.py 
 
 ```
 
-## Coded By
-falah (0xfff0800)
+
 
